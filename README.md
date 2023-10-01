@@ -14,14 +14,15 @@ Here's a quick look at the **Project Summary and Insights from the Dataset** I d
    1) Type 1 diabetes, which is typically diagnosed in childhood 
    2) Type 2 diabetes, which is more common and usually develops in adulthood.
    3) Gestational diabetes, temporary form of diabetes that occurs during pregnancy.
-<br>
 • Dataset source: Insights from the *National Institute of Diabetes and Digestive and Kidney Diseases* Dataset (.csv)
 <br>
 • Objective: To develop a diagnostic prediction model for identifying diabetes in patients using specific diagnostic measurements.
 <br>
 • Target audience: Female patients of Pima Indian heritage, aged at least 21 years old.
 <br>
+<br>
 📊 Insights from the dataset are:
+<br>
 <br>
 • Being overweight or obese and being over the age of 30 are significant risk factors for diabetes. Maintaining a healthy weight and regular checkups can reduce the risk.
 <br>
